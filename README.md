@@ -54,8 +54,8 @@ pip install scipy imutils pygame dlib opencv-python pillow
 ## 📋 Usage
 
  **Prepare the Required Files**
-   - **Facial Landmark Model**: Download the [model](models\shape_predictor_68_face_landmarks.dat).
-   - **Audio Alert**: Ensure [music.wav](music.wav) is placed in the working directory.
+   - **Facial Landmark Model**: Download the [model](models/shape_predictor_68_face_landmarks.dat).
+   - **Audio Alert**: Ensure (music.wav) is placed in the working directory.
    - **Background Image**: Update the path for `Interface.png` in the script.
 
      
